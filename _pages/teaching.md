@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* TA, [Introduction to Mobile Robotics](https://rl.uni-freiburg.de/teaching/ss22/mobile-robotics), University of Freiburg, SS 2022
+* TA, [Robot Mapping](http://ais.informatik.uni-freiburg.de/teaching/ws22/mapping/), University of Freiburg, WS 2022/2023
+* TA, [Introduction to Mobile Robotics](http://www2.informatik.uni-freiburg.de/~huang/#:~:text=TA%2C-,Introduction%20to%20Mobile%20Robotics,-%2C%20University%20of%20Freiburg%2C%20SS%202023), University of Freiburg, SS 2023
+* TA, [Parallel Programming](https://www.ce.cit.tum.de/caps/lehre/ss-21/vorlesungen/parallel-programming/), Technical University of Munich, SS 2021
 
-Organize your courses by years, topics, or universities, however you like!
