@@ -1,114 +1,119 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chenguang Huang",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chenguang.huang.research@gmail.com",
+    "phone": "",
+    "url": "https://tom-huang.github.io",
+    "scholar": "https://scholar.google.com/citations?user=_rcR8TAAAAAJ",
+    "linkedin": "https://www.linkedin.com/in/chenguang-huang-53b287254",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Freiburg",
+      "location": "Freiburg, Germany",
+      "url": "http://www2.informatik.uni-freiburg.de/~huang/",
+      "area": "Robotics, Navigation and Manipulation with Foundation Models",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-10-15",
+      "endDate": "Now",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "",
+      "area": "Robotics, Cognition, Intelligence",
+      "studyType": "Master's Degree",
+      "startDate": "2018-10-01",
+      "endDate": "2021-08-30",
+      "score": "",
+      "courses": ["Computer Vision", "Deep Learning", "Machine Learning", "Robotics"]
+    },
+    {
+      "institution": "Jilin University",
+      "location": "Changchun, China",
+      "url": "",
+      "area": "Vehicle Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2014-09-01",
+      "endDate": "2018-08-30",
+      "score": "",
+      "courses": ["Automotive Structure", "Mechanics", "Automotive Design", "Combustion Engine"]
     }
+  ],
+  "work": [
+    {
+      "name": "Technical University of Nuremberg, Artificial Intelligence and Robotics Lab",
+      "position": "Scientific Research Staff",
+      "url": "https://www.utn.de/person/chenguang-huang/",
+      "startDate": "2025-02-15",
+      "endDate": "Now",
+      "summary": "Research on open-vocabulary mapping and vision language action models",
+      "highlights": ["IJRR publication"]
+    },
+    {
+      "name": "University of Freiburg, Autonomous Intelligent Systems Lab",
+      "position": "Scientific Research Staff",
+      "url": "http://www2.informatik.uni-freiburg.de/~huang/",
+      "startDate": "2021-10",
+      "endDate": "2024-12",
+      "summary": "Research on open-vocabulary mapping and robot learning for manipulation",
+      "highlights": ["ICRA publication", "RSS publication", "Best Paper Award at ICRA 2024"]
+    },
+    {
+      "name": "Technical University of Munich, Engineering Risk Analysis Group",
+      "position": "Student Research Assistant",
+      "url": "",
+      "startDate": "2020-04",
+      "endDate": "2020-09",
+      "summary": "Develop pipelines for 3D object detections from LiDAR and camera on different datasets like KITTI, Waymo and A2D2",
+      "highlights": []
+    },
+    {
+      "name": "Technical University of Munich, Munich Institute of Robotics and Machine Intelligence (MIRMI)",
+      "position": "Student Research Assistant",
+      "url": "",
+      "startDate": "2020-04",
+      "endDate": "2020-09",
+      "summary": "Develop control interface for applying reinforcement learning algorithms both in simulation and on real robot for Franka Panda",
+      "highlights": []
+    },
+    {
+      "name": "Siemens Mobility",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2019-03",
+      "endDate": "2019-06",
+      "summary": "Develop automatic pipeline for software testing using GitLab-CI and AWS",
+      "highlights": []
+    }
+
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Best Conference Paper Award, ICRA 2024",
+      "date": "2024-05-15",
+      "awarder": "",
+      "url": "",
+      "summary": "Our work Open x-embodiment: Robotic learning datasets and rt-x models got best paper awards at ICRA Yokohama, Japan 2024"
     }
   ],
   "publications": [
@@ -134,24 +139,14 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +154,49 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Scene Representations",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Open-Vocabulary Mapping",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Language-conditioned Navigation and Manipulation",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Vision Language Action Models",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Foundation Models for Robotics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
     }
   ]
 }
