@@ -35,7 +35,7 @@ I am currently visiting my supervsisor's new lab at Technical University of Nure
 Previously I obtained my Master's Degree from **Technical University of Munich**, majoring in Robotics, Cognition, Intelligence.
 During my Master's study, I was lucky to be able to exchange to **ETH, Zurich** for two semesters and do research on visual-lidar fusion for mapping.
 Earlier, I got my Bachelor's Degree on Vehicle Engineering from **Jilin University** in China. 
-Currently, my research interests lie in scene representation for robot applications (like open-vocabulary mapping, especially in dynamic scenes), vision language action models for robot navigation and manipulation, and 3D-LLM.
+Currently, my research interests lie in scene representation for robot applications (like open-vocabulary mapping, especially in dynamic scenes), vision language action models for robot navigation and manipulation, and 3D-LLM. **I am Open to Positions now!**
 
 <div style="display: flex; justify-content: space-between; max-width: 400px; margin: 20px auto;">
   <a href="mailto:chenguang.huang.research@gmail.com "><i class="fas fa-envelope fa-2x"></i></a>
