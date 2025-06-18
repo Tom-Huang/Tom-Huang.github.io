@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work Multimodal Spatial Language Maps for Robot Navigation and Manipulation got accepted to International Journal of Robotics Research. 
+Our work [Multimodal Spatial Language Maps for Robot Navigation and Manipulation](https://arxiv.org/abs/2506.06862) got accepted to International Journal of Robotics Research. Visit our project website at: [mslmaps.github.io](https://mslmaps.github.io/). 
