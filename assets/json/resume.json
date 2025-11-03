@@ -45,7 +45,12 @@
       "startDate": "2018-10-01",
       "endDate": "2021-08-30",
       "score": "",
-      "courses": ["Computer Vision", "Deep Learning", "Machine Learning", "Robotics"]
+      "courses": [
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning",
+        "Robotics"
+      ]
     },
     {
       "institution": "Jilin University",
@@ -56,18 +61,34 @@
       "startDate": "2014-09-01",
       "endDate": "2018-08-30",
       "score": "",
-      "courses": ["Automotive Structure", "Mechanics", "Automotive Design", "Combustion Engine"]
+      "courses": [
+        "Automotive Structure",
+        "Mechanics",
+        "Automotive Design",
+        "Combustion Engine"
+      ]
     }
   ],
   "work": [
+    {
+      "name": "The Robotics and AI Institute, Zurich",
+      "position": "Research Scientist",
+      "url": "",
+      "startDate": "2025-11-03",
+      "endDate": "Now",
+      "summary": "Research on foundation models for robotics",
+      "highlights": []
+    },
     {
       "name": "Technical University of Nuremberg, Artificial Intelligence and Robotics Lab",
       "position": "Scientific Research Staff",
       "url": "https://www.utn.de/person/chenguang-huang/",
       "startDate": "2025-02-15",
-      "endDate": "Now",
+      "endDate": "2025-08-14",
       "summary": "Research on open-vocabulary mapping and vision language action models",
-      "highlights": ["IJRR publication"]
+      "highlights": [
+        "IJRR publication"
+      ]
     },
     {
       "name": "University of Freiburg, Autonomous Intelligent Systems Lab",
@@ -76,7 +97,11 @@
       "startDate": "2021-10",
       "endDate": "2024-12",
       "summary": "Research on open-vocabulary mapping and robot learning for manipulation",
-      "highlights": ["ICRA publication", "RSS publication", "Best Paper Award at ICRA 2024"]
+      "highlights": [
+        "ICRA publication",
+        "RSS publication",
+        "Best Paper Award at ICRA 2024"
+      ]
     },
     {
       "name": "Technical University of Munich, Engineering Risk Analysis Group",
@@ -105,7 +130,6 @@
       "summary": "Develop automatic pipeline for software testing using GitLab-CI and AWS",
       "highlights": []
     }
-
   ],
   "awards": [
     {
@@ -186,20 +210,17 @@
     {
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Scene Representations",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Open-Vocabulary Mapping",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "languages": [
@@ -228,38 +249,32 @@
     {
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Scene Representations",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Open-Vocabulary Mapping",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Language-conditioned Navigation and Manipulation",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Vision Language Action Models",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Foundation Models for Robotics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ]
 }
